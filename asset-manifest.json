@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aliens/static/css/main.e8b3cfc4.chunk.css",
-    "main.js": "/aliens/static/js/main.a48c89d9.chunk.js",
-    "main.js.map": "/aliens/static/js/main.a48c89d9.chunk.js.map",
+    "main.js": "/aliens/static/js/main.01651956.chunk.js",
+    "main.js.map": "/aliens/static/js/main.01651956.chunk.js.map",
     "runtime-main.js": "/aliens/static/js/runtime-main.ca905cf3.js",
     "runtime-main.js.map": "/aliens/static/js/runtime-main.ca905cf3.js.map",
     "static/js/2.04e70a9e.chunk.js": "/aliens/static/js/2.04e70a9e.chunk.js",
     "static/js/2.04e70a9e.chunk.js.map": "/aliens/static/js/2.04e70a9e.chunk.js.map",
     "index.html": "/aliens/index.html",
-    "precache-manifest.1ac081e7f4aac2f5ae3a471466655f8a.js": "/aliens/precache-manifest.1ac081e7f4aac2f5ae3a471466655f8a.js",
+    "precache-manifest.e06bdf694fcb8efdf021d27d5b686857.js": "/aliens/precache-manifest.e06bdf694fcb8efdf021d27d5b686857.js",
     "service-worker.js": "/aliens/service-worker.js",
     "static/css/main.e8b3cfc4.chunk.css.map": "/aliens/static/css/main.e8b3cfc4.chunk.css.map",
     "static/js/2.04e70a9e.chunk.js.LICENSE.txt": "/aliens/static/js/2.04e70a9e.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.ca905cf3.js",
     "static/js/2.04e70a9e.chunk.js",
     "static/css/main.e8b3cfc4.chunk.css",
-    "static/js/main.a48c89d9.chunk.js"
+    "static/js/main.01651956.chunk.js"
   ]
 }
